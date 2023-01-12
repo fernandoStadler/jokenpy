@@ -30,17 +30,3 @@ def play():
      else:
           print("Voce perdeu!")
 play();
-
-
-
-
-
-
-
-            
-
-    
-
-
-
-
