@@ -23,7 +23,7 @@ def play():
           print("você ganhou!")
      elif move == "papel" and cpu == "pedra":
           print("você ganhou!")
-     elif move == "teroura" and cpu =="papel":
+     elif move == "tesoura" and cpu =="papel":
           print("você ganhou!")
      elif move == cpu:
           print("O jogo empatou!")    
